@@ -18,8 +18,11 @@ This project involves training a classifier to detect cars in images and applyin
 
 ```bash
 python train_classify.py
+```
 
-Processing Video Frames
+###Processing Video Frames
 Run `video.py` to process a video using the trained classifier.
 
+```bash
 python video.py
+```
