@@ -26,3 +26,28 @@ Run `video.py` to process a video using the trained classifier.
 ```bash
 python video.py
 ```
+
+### Dependencies
+-Python 3.x
+-OpenCV
+-NumPy
+-scikit-learn
+-scikit-image
+-Matplotlib
+-MoviePy
+Install dependencies using:
+```bash
+pip install -r requirements.txt
+```
+
+### Configuration
+Adjust parameters in the scripts to fine-tune the classifier and detection pipeline.
+
+### License, Acknowledgments, Contributing
+License: This project is licensed under the MIT License.
+Acknowledgments: Udacity Self-Driving Car Nanodegree program for project inspiration and guidance. Scikit-learn for the SVM classifier. OpenCV for image processing.
+Contributing: Pull requests and contributions are welcome. Please open an issue for major changes.
+
+```bash
+Feel free to customize it further based on your project's details and requirements.
+```
